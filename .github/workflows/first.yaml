@@ -1,4 +1,4 @@
-name: Greeting from Mona
+name: Greeting from user
 on: push
 
 jobs:
